@@ -15,6 +15,6 @@ I am rahil ganatra. Currently in 4th year at PDEU, Gandhinagar, India. I am pass
 ![](https://github-contributor-stats.vercel.app/api?username=grahil-24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=grahil-24&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=grahil-24&label=Profile%20Views&icon=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

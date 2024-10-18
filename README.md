@@ -10,7 +10,7 @@ I am rahil ganatra. Currently in 4th year at PDEU, Gandhinagar, India. I am pass
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grahil-24&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/rahil_28)
+![](https://leetcard.jacoblin.cool/rahil_28)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
